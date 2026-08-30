@@ -1,0 +1,39 @@
+using System;
+using System.Collections.Generic;
+namespace Carrito.logica;
+
+
+public class CarritoCompras
+{
+   public List<Detalle> lstDetalle { get; set; }
+
+   //Constructor
+    public Carrito()
+    {
+        this.lstDetalle = new List<Detalle>();
+    } 
+
+    public bool agregarProducto(int intCantidad, Producto objProducto)
+    {
+        //Validaciones
+        if(!objProducto.verificarStock(intCantidad))
+        {
+            console.WriteLine("No hay stock suficiente");
+            return false;
+        }
+        lstDetalle.Add(new Detalle(intCantidad, objProducto));
+    }
+
+    public void mostrarCarrito()
+    {
+        if(lstDetalle.Count == 0)
+        {
+            console.WriteLine("El carrito esta vacio");
+            return;
+        }
+        foreach(var item in lstDetalle)
+        {
+           item.mostrarDetalle();
+        }
+    }
+}
