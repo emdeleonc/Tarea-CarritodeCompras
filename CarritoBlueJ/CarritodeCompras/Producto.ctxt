@@ -1,0 +1,17 @@
+#BlueJ class context
+#Sat Aug 29 16:56:55 CST 2026
+comment0.target=Producto
+comment1.params=id nombre precio stock
+comment1.target=Producto(int, java.lang.String, double, int)
+comment2.target=int getId()
+comment3.target=java.lang.String getNombre()
+comment4.target=double getPrecio()
+comment5.target=int getStock()
+comment6.params=cantidad
+comment6.target=boolean tieneStock(int)
+comment7.params=cantidad
+comment7.target=boolean reducirStock(int)
+comment8.params=cantidad
+comment8.target=void devolverStock(int)
+comment9.target=java.lang.String toString()
+numComments=10

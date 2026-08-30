@@ -1,0 +1,12 @@
+#BlueJ class context
+#Sat Aug 29 16:56:55 CST 2026
+comment0.target=DetalleCarrito
+comment1.params=producto cantidad
+comment1.target=DetalleCarrito(Producto, int)
+comment2.target=Producto getProducto()
+comment3.target=int getCantidad()
+comment4.params=cantidad
+comment4.target=void setCantidad(int)
+comment5.target=double calcularSubtotal()
+comment6.target=java.lang.String toString()
+numComments=7

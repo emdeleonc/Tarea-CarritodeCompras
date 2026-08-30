@@ -1,0 +1,19 @@
+#BlueJ class context
+#Sat Aug 29 16:56:55 CST 2026
+comment0.target=Carrito
+comment1.params=cliente
+comment1.target=Carrito(Cliente)
+comment10.target=void vaciarCarrito()
+comment11.params=pago
+comment11.target=boolean finalizarCompra(Pago)
+comment2.target=Cliente getCliente()
+comment3.target=java.util.List getItems()
+comment4.params=producto cantidad
+comment4.target=boolean agregarItem(Producto, int)
+comment5.params=idProducto
+comment5.target=boolean eliminarItem(int)
+comment6.target=boolean estaVacio()
+comment7.target=double calcularSubtotal()
+comment8.target=double calcularImpuestos()
+comment9.target=double calcularTotal()
+numComments=12

@@ -1,0 +1,10 @@
+#BlueJ class context
+#Sat Aug 29 16:56:55 CST 2026
+comment0.target=Notificacion
+comment1.params=destinatario mensaje fecha
+comment1.target=Notificacion(java.lang.String, java.lang.String, java.lang.String)
+comment2.target=java.lang.String getDestinatario()
+comment3.target=java.lang.String getMensaje()
+comment4.target=void enviar()
+comment5.target=java.lang.String toString()
+numComments=6
