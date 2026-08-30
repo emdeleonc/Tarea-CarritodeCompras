@@ -1,0 +1,34 @@
+namespace Carrito.logica;
+
+public class Detalle
+{
+    public Producto objProducto { get; set; }
+    public int intCantidad { get; set; }
+
+    //Constructor
+    public Detalle(Producto objProducto, int intCantidad)
+    {
+        this.objProducto = objProducto;
+        this.intCantidad = intCantidad;
+    }
+
+    public double CalcularSubtotal()
+    {
+        if(objProducto==null)
+        {
+            return 0;
+        }
+        else
+        {
+            return objProducto.dblPrecio * intCantidad;
+        }
+    }
+
+    public void MostrarDetalle()
+    {
+        double dblSubtotal = CalcularSubtotal();
+        Console.WriteLine($"{objProducto.strNombre}, {dblSubtotal}");
+    }
+
+    
+}
