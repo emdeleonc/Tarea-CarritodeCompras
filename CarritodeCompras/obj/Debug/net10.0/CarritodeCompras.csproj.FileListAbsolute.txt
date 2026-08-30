@@ -1,0 +1,14 @@
+C:\Users\emily\Documents\Semestre 4\Programación II\CarritodeCompras\bin\Debug\net10.0\CarritodeCompras.exe
+C:\Users\emily\Documents\Semestre 4\Programación II\CarritodeCompras\bin\Debug\net10.0\CarritodeCompras.deps.json
+C:\Users\emily\Documents\Semestre 4\Programación II\CarritodeCompras\bin\Debug\net10.0\CarritodeCompras.runtimeconfig.json
+C:\Users\emily\Documents\Semestre 4\Programación II\CarritodeCompras\bin\Debug\net10.0\CarritodeCompras.dll
+C:\Users\emily\Documents\Semestre 4\Programación II\CarritodeCompras\bin\Debug\net10.0\CarritodeCompras.pdb
+C:\Users\emily\Documents\Semestre 4\Programación II\CarritodeCompras\obj\Debug\net10.0\CarritodeCompras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emily\Documents\Semestre 4\Programación II\CarritodeCompras\obj\Debug\net10.0\CarritodeCompras.AssemblyInfoInputs.cache
+C:\Users\emily\Documents\Semestre 4\Programación II\CarritodeCompras\obj\Debug\net10.0\CarritodeCompras.AssemblyInfo.cs
+C:\Users\emily\Documents\Semestre 4\Programación II\CarritodeCompras\obj\Debug\net10.0\CarritodeCompras.csproj.CoreCompileInputs.cache
+C:\Users\emily\Documents\Semestre 4\Programación II\CarritodeCompras\obj\Debug\net10.0\CarritodeCompras.dll
+C:\Users\emily\Documents\Semestre 4\Programación II\CarritodeCompras\obj\Debug\net10.0\refint\CarritodeCompras.dll
+C:\Users\emily\Documents\Semestre 4\Programación II\CarritodeCompras\obj\Debug\net10.0\CarritodeCompras.pdb
+C:\Users\emily\Documents\Semestre 4\Programación II\CarritodeCompras\obj\Debug\net10.0\CarritodeCompras.genruntimeconfig.cache
+C:\Users\emily\Documents\Semestre 4\Programación II\CarritodeCompras\obj\Debug\net10.0\ref\CarritodeCompras.dll
